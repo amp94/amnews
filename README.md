@@ -1,0 +1,2 @@
+# amnews
+Alarming news
